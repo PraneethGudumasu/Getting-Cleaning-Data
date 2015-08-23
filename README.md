@@ -1,6 +1,7 @@
 # Getting-Cleaning-Data
 Repo created for getting and cleaning data course work
-Download the data required for this projtec from the below link
+
+### Download the data required for this project from the below link
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 unzip the contents in the R working directory
 
